@@ -11,4 +11,4 @@ os.path.isfile(test)
 
 os.system('echo hello>test/hello.txt')
 os.makedirs('test/test2/level1/')
-os.makedirs('test/test2/level1/')
+#add some staff
